@@ -9,6 +9,11 @@
             // a)  لما نعملهم كوبي هياخدو اماكن في الستاك بس بي نفس ال ادريس و هيشاورو علي نفس ال اوبجكت و لما نعدل عليهم هياخدو ادريس جديد و يشاورو علي ابوجيكت جديد
             // b) هو الكلاس ريفرنس تايب و احنا لسا مخدناش الكلاس بس تقريبا هيعمل اوبجكت اوبجكت جديد 
             #endregion
+            #region question 2
+            //a)No validation ,No control over how data is changed,Data and behavior are not protected
+            //b)Private fields protect the data, while public properties provide controlled access to it.
+            #endregion
+
         }
     }
 }
