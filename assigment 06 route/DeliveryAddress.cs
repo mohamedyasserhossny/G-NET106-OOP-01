@@ -17,7 +17,7 @@ namespace assigment_06_route
             street= street;
             buldingnumber= buldingnumber;
         }
-        public override string ToString()
+        public  string getfulladress ()
         {
             return $"{city},{street},{buldingnumber}";
         }
