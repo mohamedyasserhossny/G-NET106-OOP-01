@@ -8,6 +8,14 @@
             //a) change 
             // b) doesnt change
             #endregion
+            #region question2 
+            // a) 1- any one can use them dirctly
+                  // 2- no validtion 
+                  // 3- can not have control on them 
+             // b) 1- not any one can use dirctly
+                  // 2- validation 
+                  //3- control on them 
+            #endregion
         }
     }
 }
